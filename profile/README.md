@@ -19,31 +19,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/hainoir">
-        <img src="https://avatars.githubusercontent.com/hainoir" width="100px;" alt=""/>
-        <br />
-        <sub><b>Hainoir</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tudoutuc">
         <img src="https://avatars.githubusercontent.com/tudoutuc" width="100px;" alt=""/>
         <br />
         <sub><b>Tudou</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/skyykoishi">
-        <img src="https://avatars.githubusercontent.com/skyykoishi" width="100px;" alt=""/>
-        <br />
-        <sub><b>SkyyKoishi</b></sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://github.com/Egret928">
-        <img src="https://avatars.githubusercontent.com/Egret928" width="100px;" alt=""/>
-        <br />
-        <sub><b>Egret928</b></sub>
       </a>
     </td>
   </tr>
